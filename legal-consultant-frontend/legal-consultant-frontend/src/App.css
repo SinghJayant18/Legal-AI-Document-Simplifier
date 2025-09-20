@@ -1,0 +1,135 @@
+/* Tailwind CSS is included via CDN, but we define custom styles here */
+.bg-gradient-hero {
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
+
+.card-elegant {
+  background: white;
+  border-radius: 12px;
+  padding: 22px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.chip-elegant {
+  background: #e2e8f0;
+  padding: 8px 16px;
+  border-radius: 20px;
+  font-size: 14px;
+  color: #2d3748;
+  cursor: pointer;
+}
+
+.input-elegant {
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 12px;
+  background: #f7fafc;
+}
+
+.btn-primary {
+  background: #3182ce;
+  color: white;
+  font-weight: 500;
+  border-radius: 8px;
+  padding: 10px 16px;
+}
+
+.btn-primary:hover:not(:disabled) {
+  background: #2b6cb0;
+}
+
+.btn-accent {
+  background: #ed8936;
+  color: white;
+  font-weight: 500;
+  border-radius: 8px;
+  padding: 10px 16px;
+}
+
+.btn-accent:hover:not(:disabled) {
+  background: #dd6b20;
+}
+
+.btn-ghost {
+  background: transparent;
+  color: #718096;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 10px 16px;
+}
+
+.btn-ghost:hover:not(:disabled) {
+  background: #edf2f7;
+}
+
+.upload-zone {
+  background: #f7fafc;
+  border: 2px dashed #e2e8f0;
+  border-radius: 8px;
+  padding: 16px;
+}
+
+.answer-elegant {
+  margin-top: 32px;
+  background: white;
+  border-radius: 12px;
+  padding: 24px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.animate-pulse-glow {
+  animation: pulse-glow 2s infinite;
+}
+
+@keyframes pulse-glow {
+  0% {
+    box-shadow: 0 0 10px rgba(66, 153, 225, 0.5);
+  }
+  50% {
+    box-shadow: 0 0 20px rgba(66, 153, 225, 0.8);
+  }
+  100% {
+    box-shadow: 0 0 10px rgba(66, 153, 225, 0.5);
+  }
+}
+
+/* Tailwind utility classes used in the code */
+.text-foreground {
+  color: #2d3748;
+}
+
+.text-muted-foreground {
+  color: #718096;
+}
+
+.text-accent {
+  color: #3182ce;
+}
+
+.text-accent-foreground {
+  color: #ffffff;
+}
+
+.text-success {
+  color: #38a169;
+}
+
+.bg-background\/50 {
+  background: rgba(255, 255, 255, 0.5);
+}
+
+.border-border {
+  border-color: #e2e8f0;
+}
+
+.border-border\/50 {
+  border-color: rgba(226, 232, 240, 0.5);
+}
+
+.font-display {
+  font-family: 'Inter', sans-serif;
+}
+
+.bg-muted\/20 {
+  background: rgba(237, 242, 247, 0.2);
+}

@@ -1,0 +1,1127 @@
+Case: K.M. Nanavati v. State of Maharashtra (1962)
+Facts: A naval officer, Nanavati, killed his wife’s lover. 
+Judgment: Supreme Court convicted Nanavati under Section 302 IPC for murder.
+Learning: Established principles regarding sudden provocation and use of exceptions in murder trials.
+
+Case: State of Rajasthan v. Kashi Ram (2006)
+Facts: Accused charged with dowry death.
+Judgment: Supreme Court held circumstantial evidence sufficient and convicted the accused.
+Learning: Highlighted importance of dowry-related laws and evidentiary standards.
+
+Case: Vishaka v. State of Rajasthan (1997)
+Facts: Absence of specific law for sexual harassment at workplace.
+Judgment: Supreme Court laid down Vishaka Guidelines for protection of women at workplace.
+Learning: Marked an important step before Sexual Harassment of Women at Workplace Act, 2013.
+
+Case: Shreya Singhal v. Union of India (2015)
+Facts: Section 66A of IT Act criminalized online speech.
+Judgment: Supreme Court struck it down as unconstitutional.
+Learning: Reinforced freedom of speech and expression in online space.
+
+
+
+
+ 2025 INSC 532
+REPORTABLE
+1
+ IN THE SUPREME COURT OF INDIA CIVIL APPELLATE JURISDICTION
+CIVIL APPEAL NO. 5401 OF 2025 (Arising out of SLP (C) No. 6799 of 2022)
+ ANGADI CHANDRANNA
+SHANKAR & ORS.
+R. MAHADEVAN, J.
+Leave granted.
+VERSUS
+JUDGMENT
+... APPELLANT
+... RESPONDENT(S)
+  2. The appellant is the purchaser of a property bearing Sy. No. 93 measuring 7 acres 20 guntas situated at Mahadevapura Village, Parashurampura Hobli, Challakere Taluk1. He has come up with the present appeal against the judgment and order dated 12.08.2021 passed by the High Court of Karnataka at Bengaluru2 in Regular Second Appeal No.1417 of 2006. By the impugned order, the High Court allowed the Regular Second Appeal thereby setting aside
+1 For short, “the suit property”
+2 Hereinafter referred to as “the High Court”
+  
+the judgment and decree dated 21.02.2006 passed by the Civil Judge (Senior Division), Challakere3 in Regular Appeal No.291 of 2002 and affirming the judgment and decree dated 21.12.2001 passed by the Civil Judge (Junior Division) and Judicial Magistrate First Class, Challakere4, in O.S.No.169 of 1994.
+3. The appellant herein is Defendant No.2 and the Respondent Nos.1 to 4, who are the sons and daughters of Defendant No.1 (C. Jayaramappa), are the plaintiffs. For the sake of convenience, the parties are referred to as per their rank in the aforesaid suit.
+4. Defendant No.1 and his two brothers viz., C. Thippeswamy and C. Eshwarappa, after the death of their father and uncle, who was issueless, divided the joint family properties under a registered partition deed dated 09.05.1986. Subsequently, Defendant No.1 purchased the suit property from his elder brother C. Thippeswamy by way of a registered sale deed dated 16.10.1989. Thereafter, Defendant No.1 sold the suit property to Defendant No.2 by a registered sale deed dated 11.03.1993.
+3 Hereinafter referred to as “the First Appellate Court” 4 Hereinafter referred to as “the trial Court”
+2
+ 
+5. When the facts stood thus, the plaintiffs had instituted a suit bearing O.S.No.169 of 1994 before the trial Court seeking partition and separate possession of the suit property. After due trial, the trial Court vide judgment and decree dated 21.12.2001, decreed the suit as prayed for, by holding that the plaintiffs are entitled for partition and separate possession by metes and bounds through revenue authorities. Challenging the same, Defendant No.2 moved Regular Appeal bearing No.291 of 2002. The First Appellate Court vide judgment and decree dated 21.02.2006, allowed the appeal and set aside the judgment and decree passed by the trial Court. Aggrieved by the same, the plaintiffs filed Regular Second Appeal No.1417 of 2006 which was allowed and the judgment and decree passed by the First Appellate Court was set aside by the High Court, by the judgment and order dated 12.08.2021. Therefore, Defendant No.2 is before us with the present appeal.
+6. The learned counsel for the appellant / Defendant No.2, at the outset, contended that the question of law framed by the High Court for adjudication, is a pure question of fact, which cannot be framed or decided while exercising jurisdiction under Section 100 of the Code of Civil Procedure, 1908. In this regard, reliance was placed on the decision of this Court in Jaichand (Dead)
+3
+
+Through LRs & Ors. v. Sahnulal & Anr.5 and Gurnam Singh (Dead) by LRs & Ors. v. Lehna Singh (Dead) by LRs6.
+6.1. According to the learned counsel, the joint family property was partitioned in the year 1986; subsequently, one of the brothers, Thippeswamy, sold his share i.e., the suit property to Defendant No.1 vide registered sale deed dated 16.10.1989; and thereafter, Defendant No.1 sold the suit property to Defendant No.2 vide registered sale deed dated 11.03.1993. The evidence adduced by Defendant No.2 would clearly show that the suit property was purchased by Defendant No.1 using his own funds and loan obtained from DW3 Narasimhamurthy and hence, the same should be considered as self-acquired property of Defendant No.1. As such, at the time of sale, the suit property was no longer a part of joint family property. Considering the said aspect, the First Appellate Court rightly arrived at the conclusion that the suit property was a self-acquired property of Defendant No.1.
+6.2. It is further submitted that after the execution of the sale deed dated 11.03.1993 by Defendant No.1 in favour of Defendant No.2 in respect of the suit property, the plaintiffs, who are the sons and daughters of Defendant No.1, had filed the suit for partition and separate possession, without seeking the relief
+5 2024 SCC OnLine SC 3864
+6 (2019) 7 SCC 641
+4
+ 
+of cancellation of the said sale deed. Though the trial Court framed an issue, it decided that the said issue does not arise for consideration, as in a suit for partition, there is no necessity to seek a relief of declaration of sale deed executed in favour of third parties as null and void. In this connection, the learned counsel referred to a decision of this court in Murugan & Ors. v. Kesava Gounder (Dead) Through LRs. & Ors.7, wherein, it was held that a specific prayer for setting aside the sale deed is mandatory in the suit for declaration and separate possession.
+6.3. It is also submitted that the High Court erred in arriving at the finding that Defendant No.1 got the suit property under the will dated 18.12.1978 and the same blended into the joint family properties since then. Whereas, the property received by the Defendant No.1 under the partition deed was different from the suit property and that, the suit property was purchased by him out of his own funds and the loan obtained from DW3 Narasimhamurthy. Hence, the doctrine of blending would not apply to the present case. The legal position in this regard is that the doctrine of blending of self-acquired property into joint family pool would apply only when such self-acquired property is voluntarily thrown into the common stock with intention to abandon separate claim over the same [Refer: Mallesappa Bandeppa Desai & Anr. v. Desai Mallappa alias
+5
+ 7 (2019) 20 SCC 633
+
+Mallesappa & Anr.8, and Lakkireddi Chinna Venkata Reddi & Ors. v. Lakkireddi Lakshmama9].
+6.4. Stating so, the learned counsel prayed to allow this appeal by setting aside the impugned judgment and order passed by the High Court.
+7. On the contrary, the learned counsel for the respondents / plaintiffs submitted that the suit property was acquired by Defendant No.1 through a sale deed dated 16.10.1989, for a total consideration of Rs.15,000/- from C. Thippeswamy, using nucleus funds or joint family funds viz., income derived from the land allotted to the share of Defendant No.1 through partition; income derived from doing coolie work; cash of Rs.10,000/- given during partition; and cash given by Mallamma (grandmother of the respondents) by selling her property at Rayadurga and hence, the same should be treated as ancestral property and not self-acquired property.
+7.1. It is further submitted that when the partition among the Defendant No.1 and his brothers, came into effect i.e., on 09.05.1986, the plaintiffs were minors and were co-parceners with respect to the properties or amounts that were
+8 (1961) 3 SCR 779 9 (1964) 2 SCR 172
+6
+ 
+divided and allotted to Defendant No.1’s share, as the family continued to reside jointly. As such, the plaintiffs have a right over the suit property.
+7.2. Referring to Hindu Law by Mulla, the learned counsel submitted that the character of the ancestral property does not change with respect to the sons, even after partition, as it is a settled principle of law that the share that a co- sharer obtains upon the partition of ancestral property, continues to be ancestral for his male issues, who acquire an interest in it by birth, whether they exist at the time of partition or are born subsequently. Therefore, the suit property, which was acquired/purchased by Defendant No.1, remains ancestral property and the plaintiffs have a right over the same. In this regard, the learned counsel placed reliance on the decision of this Court in Yudhishter v. Ashok Kumar10.
+7.3. It is also submitted that even assuming but not admitting that joint family property once divided through partition, no longer remains as such and is considered self-acquired, the court must examine the facts and evidence to determine how Defendant No.1 acquired the suit property for Rs.15,000/- in 1989, either using nucleus funds/joint family funds or with a loan obtained from DW.3. According to the learned counsel, there was no reasonable possibility that within a period of just three years, the Defendant No.1 could have accumulated a sum of Rs.15,000/- solely by doing coolie work or by cultivating the land
+10 (1987) 1 SCC 204
+7
+ 
+allotted to him by way of partition, and acquired the suit property. Further, no convincing and reliable material was produced that Defendant No.1 obtained loan from DW.3. That apart, there were contradictions and inconsistencies in the defendants’ side’s deposition only to suggest that the suit property was acquired using joint family funds. On the other hand, the plaintiffs have successfully discharged their burden by producing sufficient material to establish that the suit property was acquired using joint family funds, and the character of the suit property must still be regarded as ancestral.
+7.4. Ultimately, the learned counsel submitted that there is no evidence to show that the suit property was sold for the benefit of the estate. Rather, it shows that Defendant No.1 was in dire need of money to continue his bad habits and not to look after the estate. That apart, the amount received by Defendant No.1 after selling the suit property was never handed over to the plaintiffs for their betterment. Therefore, it is submitted that the suit property was sold without the consent of the plaintiffs and without any legal necessity, making the sale deed void.
+7.5. Pointing out the above, the learned counsel submitted that considering all these aspects, both the trial Court and High Court rightly decreed the suit in favour of the plaintiffs and the same do not call for any interference by this court.
+8
+
+8. We have heard the learned counsel for both sides and perused the materials available on record.
+9. As evident from the facts, there was a partition deed dated 09.05.1986, among Defendant No.1 and his two brothers in respect of the ancestral properties, after the death of their father, Channappa, who had two wives and three sons through them. ‘A’ schedule property was allotted to C. Thippeswamy (son through the first wife, Mallamma); ‘B’ schedule property was allotted to C. Eshwarappa, (son through the second wife, Parvathamma); ‘C’ schedule property was allotted to Defendant No. 1, (another son through the second wife, Parvathamma); and ‘D’ schedule property was divided into equal shares among Defendant No.1 and his brothers. Subsequently, Defendant No.1 purchased the suit property, which was allotted to the share of C. Thippeswamy through partition deed dated 09.05.1986 (A-schedule property), by a sale deed dated 16.10.1989 for Rs.15,000/-. Thereafter, he sold the suit property to Defendant No.2 on 11.03.1993 for a sale consideration of Rs.20,000/. It is pertinent to mention here that the suit property is the property allotted to C. Thippeswamy, later purchased by Defendant No.1 and not the property which was received by Defendant No.1 through will.
+10. Contending that the suit property was acquired by Defendant No.1 using joint family funds and should therefore be treated as ancestral; he cannot sell it
+9
+
+without the consent of the plaintiffs; and plaintiffs 1 and 3, being coparceners of the joint family, have a share in the suit property, while plaintiffs 2 and 4 have a right to maintenance from it, the plaintiffs instituted the suit bearing O.S.No.169 of 1994 for partition and separate possession. The defence raised was that the suit property was self-acquired property of Defendant No.1 and hence, Defendant No.1 has the right to sell it to Defendant No.2. Before the trial Court, on the side of the plaintiffs, PW1 to PW3 were examined and Exs.P1 to P3 were marked; and on the side of the defendants, DW1 to DW4 were examined and Exs.D1 to D10 documents were marked. Upon analysing the same, the trial Court decreed the suit in favour of the plaintiffs, which was reversed by the First Appellate Court. However, the High Court set aside the judgment passed by the First Appellate Court and restored the judgment of the trial Court. Therefore, this appeal came to be filed by the appellant / Defendant No.2.
+11. On the basis of the pleadings and submissions made by the parties, the main dispute in the lis is, whether the suit property was ancestral or self- acquired property of Defendant No.1.
+12. Before delving into the facts of the case, this court in Jaichand (supra) expressed its anguish at the High Court for not understanding the scope of Section 100 CPC, which limits intervention only to cases where a substantial
+10
+
+question of law exists, and clarified that the High Court can go into the findings
+of facts under Section 103 CPC only under certain circumstances, as stated in
+the following passages:
+“23. We are thoroughly disappointed with the manner in which the High Court framed the so-called substantial question of law. By any stretch of imagination, it cannot be termed even a question of law far from being a substantial question of law. How many times the Apex Court should keep explaining the scope of a second appeal Under Section 100 of the Code of Civil Procedure and how a substantial question of law should be framed? We may once again explain the well-settled principles governing the scope of a second appeal Under Section 100 of the Code of Civil Procedure.
+24. In Navaneethammal v. Arjuna Chetty reported in MANU/SC/2077/1996 : 1998: INSC: 349 : AIR 1996 S.C. 3521, it was held by this Court that the High Court should not reappreciate the evidence to reach another possible view in order to set aside the findings of fact arrived at by the first appellate Court.
+25. In Kshitish Chandra Purkait v. Santosh Kumar Purkait reported in MANU/SC/0647/1997 : 1997:INSC:487 : (1997) 5 S.C.C. 438), this Court held that in the Second Appeal, the High Court should be satisfied that the case involves a substantial question of law and not mere question of law.
+26. In Dnyanoba Bhaurao Shemade v. Maroti Bhaurao Marnor reported in MANU/SC/0058/1999 : 1999 (2) S.C.C. 471, this Court held:
+Keeping in view the amendment made in 1976, the High Court can exercise its jurisdiction Under Section 100, Code of Civil Procedure only on the basis of substantial questions of law which are to be framed at the time of admission of the Second Appeal and the Second Appeal has to be heard and decided only on the basis of such duly framed substantial questions of law. A judgment rendered by the High Court Under Section 100 Code of Civil Procedure without following the aforesaid procedure cannot be sustained.
+27. This Court in Kondira Dagadu Kadam v. Savitribai Sopan Gujar reported in MANU/SC/0278/1999 : 1999:INSC:192 : AIR 1999 S.C. 2213 held:
+The High Court cannot substitute its opinion for the opinion of the first appellate Court unless it is found that the conclusions drawn by the lower appellate Court were erroneous being contrary to the mandatory provisions of law applicable or its settled position on the basis of pronouncements made by the Apex Court, or was based upon inadmissible evidence or arrived at without evidence.
+11
+
+28. It is thus clear that Under Section 100, Code of Civil Procedure, the High Court cannot interfere with the findings of fact arrived at by the first Appellate Court which is the final Court of facts except in such cases where such findings were erroneous being contrary to the mandatory provisions of law, or its settled position on the basis of the pronouncement made by the Apex Court or based upon inadmissible evidence or without evidence.
+29. The High Court in the Second Appeal can interfere with the findings of the trial Court on the ground of failure on the part of the trial as well as the first appellate Court, as the case may be, when such findings are either recorded without proper construction of the documents or failure to follow the decisions of this Court and acted on assumption not supported by evidence. Under Section 103, Code of Civil Procedure, the High Court has got power to determine the issue of fact. The Section lays down:
+Power of High Court to determine issue of fact: In any Second Appeal, the High Court may, if the evidence on the record is sufficient to determine any issue necessary for the disposal of the appeal,-
+(a) Which has not been determined by the lower Appellate Court or both by the Court of first instance and the lower Appellate Court, or
+(b) Which has been wrongly determined by such Court or Courts by reason of a decision on such question of law as is referred to in Section 100.
+30. In Bhagwan Sharma v. Bani Ghosh reported in MANU/SC/0094/1993 : AIR 1993 S.C. 398, this Court held:
+The High Court was certainly entitled to go into the question as to whether the findings of fact recorded by the first appellate court which was the final court of fact were vitiated in the eye of law on account of non-consideration of admissible evidence of vital nature. But, after setting aside the findings of fact on that ground the Court had either to remand the matter to the first appellate Court for a rehearing of the first appeal and decision in accordance with law after taking into consideration the entire relevant evidence on the records, or in the alternative to decide the case finally in accordance with the provisions of Section 103(b). ...... If in an appropriate case the High Court decides to follow the second course, it must hear the parties fully with reference to the entire evidence on the records relevant to the issue in question and this is possible if only a proper paper book is prepared for hearing of facts and notice is given to the parties. The grounds which may be available in support of a plea that the finding of fact by the court below is vitiated in law does not by itself lead to the further conclusion that a contrary finding has to be finally arrived at on the disputed issue. On a reappraisal of the entire evidence the ultimate conclusion may go in favour of either party and it cannot be prejudged.
+31. In the case of Hero Vinoth v. Seshammal reported in MANU/SC/2774/2006 : 2006:INSC:305 : (2006) 5 SCC 545 this Court explained the concept in the following words:
+12
+
+It must be tested whether the question is of general public importance or whether it directly and substantially affects the rights of the parties.
+Or whether it is not finally decided, or not free from difficulty or calls for discussion of alternative views.
+If the question is settled by the highest court or the general principles to be applied in determining the question are well settled and there is a mere question of applying those principles or that the plea raised is palpably absurd the question would not be a substantial question of law.
+32. It is not that the High Courts are not well-versed with the principles governing Section 100 of the Code of Civil Procedure. It is only the casual and callous approach on the part of the courts to apply the correct principles of law to the facts of the case that leads to passing of vulnerable orders like the one on hand.”
+12.1. In the present case, in our view, the so-called substantial question of law framed by the High Court does not qualify to be a substantial question of law, rather the exercise of the High Court is a venture into the findings of the First Appellant Court by re-appreciation of evidence. It is settled law that the High Court can go into the findings of facts only if the First Appellate Court has failed to look into the law or evidence or considered inadmissible evidence or without evidence. Section 103 permits the High Court to go into the facts only when the courts below have not determined or rendered any finding on a crucial fact, despite evidence already available on record or after deciding the substantial question of law, the facts of a particular case demand re-determination. For the second limb of Section 103 to apply, there must first be a decision on the substantial question of law, to which the facts must be applied, to determine the issue in dispute. When the First Appellate Court in exercise of its jurisdiction has considered the entire evidence and rendered a
+13
+
+finding, the High Court cannot re-appreciate the evidence just because another view is possible, when the view taken by the First Appellate Court is plausible and does not suffer from vice in law. When the determination of the High Court is only by way of re-appreciation of the existing evidence, without there being any legal question to be answered, it would be axiomatic that not even a question of law is involved, much less a substantial one. It will be useful to refer to another judgment of this Court in Chandrabhan (Deceased) through L.Rs & Ors. v. Saraswati & Ors.11, wherein it was held as follows:
+“33. The principles relating to Section 100 of the Code of Civil Procedure relevant for this case may be summarised thus:
+(i) An inference of fact from the recitals or contents of a document is a question of fact. But the legal effect of the terms of a document is a question of law. Construction of a document involving the application of any principle of law, is also a question of law. Therefore, when there is misconstruction of a document or wrong application of a principle of law in construing a document, it gives rise to a question of law.
+(ii) The High Court should be satisfied that the case involves a substantial question of law, and not a mere question of law. A question of law having a material bearing on the decision of the case (that is, a question, answer to which affects the rights of parties to the suit) will be a substantial question of law, if it is not covered by any specific provisions of law or settled legal principle emerging from binding precedents and involves a debatable legal issue. A substantial question of law will also arise in a contrary situation, where the legal position is clear, either on account of express provisions of law or binding precedents, but the court below has decided the matter, either ignoring or acting contrary to such legal principle. In the second type of cases, the substantial question of law arises not because the law is still debatable, but because the decision rendered on a material question, violates the settled position of law.
+11 MANU/SC/1224/2022: 2022 INSC 997
+14
+ 
+(iii) The general Rule is that the High Court will not interfere with findings of facts arrived at by the courts below. But it is not an absolute rule. Some of the well-recognised exceptions are where (i) the courts below have ignored material evidence or acted on no evidence; (ii) the courts have drawn wrong inferences from proved facts by applying the law erroneously; or (iii) the courts have wrongly cast the burden of proof. When we refer to "decision based on no evidence", it not only refers to cases where there is a total dearth of evidence, but also refers to any case, where the evidence, taken as a whole, is not reasonably capable of supporting the finding.
+34. In this case, it cannot be said that the First Appellate Court acted on no evidence. The Respondents in their Second Appeal before the High Court did not advert to any material evidence that had been ignored by the First Appellate Court. The Respondents also could not show that any wrong inference had been drawn by the First Appellate Court from proved facts by applying the law erroneously.
+35. In this case, as observed above, evidence had been adduced on behalf of the Original Plaintiff as well as the Defendants. The First Appellate Court analysed the evidence carefully and in effect found that the Trial Court had erred in its analysis of evidence and given undue importance to discrepancies and inconsistencies, which were not really material, overlooking the time gap of 34 years that had elapsed since the date of the adoption. There was no such infirmity in the reasoning of the First Appellate Court which called for interference.
+36. Right of appeal is not automatic. Right of appeal is conferred by statute. When statute confers a limited right of appeal restricted only to cases which involve substantial questions of law, it is not open to this Court to sit in appeal over the factual findings arrived at by the First Appellate Court.”
+12.2. In the present case, the First Appellate Court analyzed the entire oral evidence adduced by both parties, as well as the documentary evidence relied upon by either side, and dismissed the suit. The authority to re-consider the evidence is available only to the First Appellate Court under Section 96 and not to the High Court in exercise of its authority under Section 100, unless the case falls under the exceptional circumstances provided under Section 103. While so, the re-appreciation of the entire evidence, including the contents of the exhibits,
+15
+
+reliance on and wrongful identification of a different property and treating the same to be the suit property actually in dispute to prescribe another view without any substantial question of law, only illustrate the callousness of the High Court in applying the settled principles. Therefore, the High Court erred in setting aside the judgment and decree of the First Appellate Court.
+13. Further, it is a settled principle of law that there is no presumption of a property being joint family property only on account of existence of a joint Hindu family. The one who asserts has to prove that the property is a joint family property. If, however, the person so asserting proves that there was nucleus with which the joint family property could be acquired, then there would be presumption of the property being joint and the onus would shift on the person who claims it to be self-acquired property to prove that he purchased the property with his own funds and not out of joint family nucleus that was available. That apart, while considering the term ‘nucleus’ it should always be borne in mind that such nucleus has to be established as a matter of fact and the existence of such nucleus cannot normally be presumed or assumed on probabilities. This Court in R.Deivanai Ammal (Died) v. G. Meenakshi Ammal12, dealt with the concept of Hindu Law, ancestral property and the nucleus existing therein. The relevant paragraphs are extracted below for ready reference:
+12 AIR 2004 MADRAS 529
+16
+     
+“13. First let us consider the nature of the suit properties, namely, self-acquired properties of late Ganapathy Moopanar or ancestral properties and whether any nucleus was available to purchase the properties. Under the Hindu Law it is only when a person alleging that the property is ancestral property proves that there was a nucleus by means of which other property may have been acquired, that the burden is shifted on the party alleging self-acquisitions to prove that the property was acquired without any aid from the family estate. In other words the mere existence of a nucleus however small or insignificant is not enough. It should be shown to be of such a character as could reasonably be expected to lead to the acquisition of the property alleged to be part of the joint family property. Where the doctrine of blending is invoked against a person having income at his disposal and acquiring property, the reasonable presumption to make is that he had the income at his absolute disposal unless there is evidence to the contrary. If a coparcener desires to establish that a property in the name of a female member of the family or in the name of the manager himself has to be accepted and treated as property acquired from the joint family nucleus, it is absolutely essential that such a coparcener should not only barely plead the same, but also establish the existence of such a joint family fund or nucleus. Even if the joint family nucleus is so established, the prescription that the accretions made by the manager or the purchases made by him should be deemed to be from and out of such a nucleus does not arise, if there is no proof that such nucleus of the joint family is not an income-yielding apparatus. The proof required is very strict and the burden is on the person who sets up a case that the property in the name of a female member of the family or in the name of the manager or any other coparcener is to be treated as joint family property. There should be proof of the availability of such surplus income or joint family nucleus on the date of such acquisitions or purchases. The same is the principle even in the cases where moneys were advanced on mortgages over immoveable properties. The onus is not on the acquirer to prove that the property standing in his name was purchased from joint family funds. That may be so, in the case of a manager of a joint family, but not so in the case of all coparceners. For a greater reason it is not so in the case of female members.
+14.The doctrine of blending of self-acquired property with joint family has to be carefully applied with reference to the facts of each case. No doubt it is settled that when members of a joint family by their joint labour or in their joint business acquired property, that property, in the absence of a clear indication of a contrary intention, would be owned by them as joint family property and their male issues would necessarily acquire a right by birth in such property. But the essential sine qua non is the absence of a contrary intention. If there is satisfactory evidence of an intention on the part of the acquirer such property to treat it as his own, but not as joint family property, the presumption which
+17
+
+ordinarily arises, according to the personal law of Hindus that such property would be regarded as joint family property, will not arise.
+15.It is a well-established principle of law that where a party claims that any particular item of property is joint family property, the burden of proving that it is so rests on the party asserting it. Where it is established or admitted that the family possessed some joint property which from its nature and relative value may have formed the nucleus from which the property in question may have been acquired, the presumption arises that it was joint property and the burden shifts to the party alleging self-acquisition to establish affirmatively that the property was acquired without the aid of the joint family. But no such presumption would arise if the nucleus is such that with its help the property claimed to be joint could not have been acquired. In order to give rise to the presumption, the nucleus should be such that with its help the property claimed to be joint could have been acquired. A family house in the occupation of the members and yielding no income could not be nucleus out of which acquisitions could be made even though it might be of considerable value.
+16.In a Hindu joint family, if one member sues for partition on the foot that the properties claimed by him are joint family properties then three circumstances ordinarily arise. The first is an admitted case when there is no dispute about the existence of the joint family properties at all. The second is a case where certain properties are admitted to the joint family properties and the other properties in which a share is claimed are alleged to be the accretions or acquisitions from the income available from joint family properties or in the alternative have been acquired by a sale or conversion of such available properties. The third head is that the properties standing in the names of female members of the family are benami and that such a state of affairs has been deliberately created by the manager or the head of the family and that really the properties or the amounts standing in the names of female members are properties of the joint family. While considering the term ‘nucleus’ it should always be borne in mind that such nucleus has to be established as a matter of fact and the existence of such nucleus cannot normally be presumed or assumed on probabilities. The extent of the property, the income from the property, the normal liability with which such income would be charged and the net available surplus of such joint family property do all enter into computation for the purpose of assessing the content of the reservoir of such a nucleus from which alone it could, with reasonable certainty, be said that the other joint family properties have been purchased unless a strong link or nexus is established between the available surplus income and the alleged joint family properties. The person who comes to Court with such bare allegations without any substantial proof to back it up should fail.
+18
+
+17.It is also a well-established doctrine of Hindu Law that property which was originally self-acquired may become joint property if it has been voluntarily thrown by the coparcener into the joint stock with the intention of abandoning all separate claims upto it. But the question whether the coparcener has done so or not is entirely a question of fact to be decided in the light of all the circumstances of the case. It must be established that there was a clear intention on the part of the coparcener to waive his separate rights and such an intention will not be inferred from acts which may have been done from kindness or affection. The important point to keep in mind is that the separate property of a Hindu coparcener ceases to be his separate property and acquires the characteristics of his joint family or ancestral property, not by mere act of physical mixing with his joint family or ancestral property, but by his own volition and intention by his waiving or surrendering his special right in it as separate property. Such intention can be discovered only from his words or from his acts and conduct.”
+14. It is also to be noted that in Hindu law, for a property to be considered as an ancestral property, it has to be inherited from any of the paternal ancestors up to three generations. In this regard, it would be appropriate to refer to the judgment of this Court in Govindbhai Chhotabhai Patel & Ors. v. Patel Ramanbhai Mathurbhai13, wherein it has been held as under:
+“18. The learned counsel for the appellants has referred to Shyam Narayan Prasad [Shyam Narayan Prasad v. Krishna Prasad, (2018) 7 SCC 646 : (2018) 3 SCC (Civ) 702] . That is a case in which the property in question was held to be ancestral property by the trial court. The plaintiffs therein being sons and grandson of one of the sons of Gopal Prasad, the last male holder was found to have equal share in the property. The question examined was whether the property allotted to one of the sons of Gopal Prasad in partition retains the character of coparcenary property. It was the said finding which was affirmed by this Court. This Court held as under: (SCC p. 651, para 12)
+“12. It is settled that the property inherited by a male Hindu from his father, father's father or father's father's father is an ancestral property. The essential feature of ancestral property, according to Mitakshara law, is that the sons, grandsons, and great grandsons of the person who inherits it, acquire an interest and the rights attached to such property at the moment of their birth. The share which a coparcener obtains on partition of ancestral property is
+13 (2020) 16 SCC 255
+19
+ 
+ancestral property as regards his male issue. After partition, the property in the hands of the son will continue to be the ancestral property and the natural or adopted son of that son will take interest in it and is entitled to it by survivorship.”
+............
+20. In view of the undisputed fact, that Ashabhai Patel purchased the property, therefore, he was competent to execute the will in favour of any person. Since the beneficiary of the will was his son and in the absence of any intention in the will, beneficiary would acquire the property as self-acquired property in terms of C.N. Arunachala Mudaliar case [C.N. Arunachala Mudaliar v. C.A. Muruganatha Mudaliar, (1953) 2 SCC 362 : 1954 SCR 243 : AIR 1953 SC 495]. The burden of proof that the property was ancestral was on the plaintiffs alone. It was for them to prove that the will of Ashabhai intended to convey the property for the benefit of the family so as to be treated as ancestral property. In the absence of any such averment or proof, the property in the hands of donor has to be treated as self-acquired property. Once the property in the hands of donor is held to be self-acquired property, he was competent to deal with his property in such a manner he considers as proper including by executing a gift deed in favour of a stranger to the family.”
+15. With regard to coparcenary property, the principle laid down by this Court in Rohit Chauhan v. Surinder Singh & Ors.14 would be relevant as follows:
+20
+ “11. ....In our opinion coparcenary property means the property which
+ consists of ancestral property and a coparcener would mean a person who
+ shares equally with others in inheritance in the estate of common ancestor.
+ Coparcenary is a narrower body than the joint Hindu family and before the
+ commencement of the Hindu Succession (Amendment) Act, 2005, only male
+ members of the family used to acquire by birth an interest in the coparcenary
+ property. A coparcener has no definite share in the coparcenary property but
+ he has an undivided interest in it and one has to bear in mind that it enlarges
+ by deaths and diminishes by births in the family. It is not static. We are further
+ of the opinion that so long, on partition an ancestral property remains in the
+ hand of a single person, it has to be treated as a separate property and such a
+ person shall be entitled to dispose of the coparcenary property treating it to be
+ his separate property but if a son is subsequently born, the alienation made
+ before the birth cannot be questioned. But, the moment a son is born, the
+ 14 (2013) 9 SCC 419
+
+21
+ property becomes a coparcenary property and the son would acquire interest
+ in that and become a coparcener.
+ 12.The view which we have taken finds support from a judgment of this Court
+ in M. Yogendra v. Leelamma N. [(2009) 15 SCC 184 : (2009) 5 SCC (Civ)
+ 602] in which it has been held as follows: (SCC p. 192, para 29)
+ “29. It is now well settled in view of several decisions of this Court that the
+ property in the hands of a sole coparcener allotted to him in partition shall be
+ his separate property for the same shall revive only when a son is born to him.
+ It is one thing to say that the property remains a coparcenary property but it is
+ another thing to say that it revives. The distinction between the two is
+ absolutely clear and unambiguous. In the case of former any sale or
+ alienation which has been done by the sole survivor coparcener shall be valid
+ whereas in the case of a coparcener any alienation made by the karta would
+ be valid.”
+ ...............
+ 14.A person, who for the time being is the sole surviving coparcener as in the
+ present case Gulab Singh was, before the birth of the plaintiff, was entitled to
+ dispose of the coparcenary property as if it were his separate property. Gulab
+ Singh, till the birth of plaintiff Rohit Chauhan, was competent to sell,
+ mortgage and deal with the property as his property in the manner he liked.
+ Had he done so before the birth of plaintiff, Rohit Chauhan, he was not
+ competent to object to the alienation made by his father before he was born or
+ begotten. But, in the present case, it is an admitted position that the property
+ which Defendant 2 got on partition was an ancestral property and till the birth
+ of the plaintiff he was the sole surviving coparcener but the moment plaintiff
+ was born, he got a share in the father's property and became a coparcener. As
+ observed earlier, in view of the settled legal position, the property in the hands
+ of Defendant 2 allotted to him in partition was a separate property till the
+ birth of the plaintiff and, therefore, after his birth Defendant 2 could have
+ alienated the property only as karta for legal necessity. It is nobody's case that
+ Defendant 2 executed the sale deeds and release deed as karta for any legal
+ necessity. Hence, the sale deeds and the release deed executed by Gulab Singh
+ to the extent of entire coparcenary property are illegal, null and void.
+ However, in respect of the property which would have fallen in the share of
+ Gulab Singh at the time of execution of sale deeds and release deed, the
+ parties can work out their remedies in appropriate proceeding.”
+16. In the instant case, the plaintiffs raised a specific plea throughout the proceedings that the suit property was purchased by Defendant No.1 using
+
+family nucleus viz., income derived from the lands allotted to the share of Defendant No.1; income derived from doing coolie work; cash of Rs.10,000/- received at the time of partition; and cash received from Mallamma (grandmother of the respondents) who sold her property at Rayadurga and therefore, the suit property should be treated as ancestral and the plaintiffs, who were co-parceners, have a right in it.
+17. It cannot be disputed that the properties divided among Defendant No.1 and his brothers through partition deed dated 09.05.1986, are joint family properties. However, as per Hindu law, after partition, each party gets a separate and distinct share and this share becomes their self-acquired property and they have absolute rights over it and they can sell, transfer, or bequeath it as they wish. Accordingly, the properties bequeathed through partition, become the self- acquired properties of the respective sharers.
+18. Apparently, the plaintiffs did not question the partition deed (Ex. P1) effected among the brothers. It states that the respective parties shall hereinafter enjoy the properties allotted to their share with a right to sell, lease, gift, encumber, etc. The partition deed further reveals that the suit property was allotted to C. Thippeswamy, one of the brothers of Defendant No.1; and Defendant No.1 was allotted 10 acres of land, which was different from the suit property measuring 7 acres 20 Guntas allotted to the said C. Thippeswamy. It
+22
+
+also proceeds to state that after the death of the father Channappa, the joint family became unmanageable due to difference of opinion among the members and therefore, they decided that it was not good to stay together and partitioned the lands allotted to them. Thus, the intention of the parties and the recitals in the partition deed establish that the parties wanted to go their separate ways and did not want the property to remain as joint family property.
+19. As reiterated above, after the joint family property has been distributed in accordance with law, it ceases to be joint family properties and the shares of the respective parties become their self-acquired properties. Hence, the suit property acquired by Defendant No.1 became his self-acquired property, on being sold by his brother Thippeswamy to him, vide sale deed dated 16.10.1989. It is the contention of the plaintiffs that the suit property was purchased by Defendant No.1 using family nucleus and thus, should be considered as ancestral property. Whereas, the defence raised was that Defendant No.1 acquired the suit property with the aid of his own funds and loan obtained from DW3- Narasimhamurthy. DW1- Chandrashekar clearly stated in his deposition that Defendant No.1 obtained a loan from DW3, out of which, he purchased the suit property and that he repaid the loan amount through a sale deed executed in respect of 4 acres of land to DW3 and out of the balance amount, he performed his daughter’s marriage. It was also stated by DW1 that apart from the suit property, Defendant No.1 had various lands and a house as well. DW2
+23
+
+Lakshmanappa stated in his evidence that he had signed the partition deed (Ex. P1) executed among Defendant No.1 and his brothers in 1986; and he denied the payment of Rs.10,000/- to the share of Defendant No.1. He further deposed that Thippeswamy, elder brother of Defendant No.1, residing in Bangalore, sold his share to Defendant No.1 as he was unable to look after the same. His evidence also establishes that Defendant No.1 obtained loan from DW3 and he sold his land to him for repayment of the said loan in 1993 by executing a sale deed (Ex. D1), in which, DW2 was a witness; and at that time, the wife and children of Defendant No.1 were present. DW3 - Narasimhamurthy in his evidence, stated that Defendant No.1 obtained loan from him for purchase of land of his brother, in October 1989 and he repaid the same by selling his 4 acres of land to him in 1993; and at the time of execution of sale deed by Defendant No.1 to DW3, his wife and children were present. It is the evidence of DW4 - Linganna that Defendant No.1 executed a sale deed in favour of DW3 in respect of 4 acres of land, for the repayment of loan borrowed by him and DW4 was the witness to the said document. He also categorically stated that Defendant No.1 had purchased about 7 acres of land, after obtaining loan from DW3 and prior to the execution of sale deed in favour of DW3. It is categorically stated in the sale deed dated 11.03.1993 that the suit property was a self-acquired property of Defendant No.1. The sale deed (Ex.P2) does not anywhere disclose that the suit property purchased by Defendant No.1 was ancestral property or was purchased from the income received from the joint
+24
+
+family property, except for a mere reference to the partition deed (Ex. P1), which according to us, is not sufficient to come to a conclusion that the properties allotted to the share of Defendant No.1 should also be treated as joint family properties, and no evidence was let in by the plaintiffs to prove that the other properties allotted to Defendant No.1 yielded income and that it was only from that entire income that the suit property was purchased. No records have been produced in this regard. Though PW2 stated that during the partition, all the three brothers were allotted Rs.10,000/- each, there was no recital to that effect in the partition deed (Ex. P1) and hence, it cannot be believed. It is well established that the contents in a document would prevail over any contrary oral evidence. Regarding the contention that Mallamma had sold her property in order to help Defendant No.1 to purchase the suit property, except the statement of PW2, there is no evidence in this regard. Further, the said Mallamma was not examined and the sale deed executed by her was not produced to substantiate the same. It is also clear from the depositions on the defendants’ side that Defendant No.1 was not having any bad habits and his wife and children were present, at the time of execution of the sale deed. Whereas, there were inconsistencies in the statements of PW1 and PW2 in demonstrating that the suit property was an ancestral property. The mere existence of sons and daughters in a joint Hindu family does not make the father's separate orself- acquiredproperty as joint family property. It was also the claim of the defendants that Defendant No.1 performed the marriage of his daughter with the
+25
+
+funds received as sale consideration, which according to us, is the role of a Kartha, and therefore, has to be treated as act of necessity and duty. This fact has not been objected to by the plaintiffs.
+19.1. It is also to be mentioned here that when the income derived from the joint family property or when a joint family property is sold and the sale consideration is utilised for maintenance and education within the joint family, the same are to be treated as out of necessity as it is the duty of every Kartha to do so. Hence, it is sufficient to satisfy the legal necessity if the Kartha had sold the property and used the funds for upbringing the children. That apart, under the customary practices and tradition in this country, it is the father who performs the marriage of his children and therefore, the expenses incurred for that purposes are also to be treated as expenses out of necessity.
+19.2. At the cost of repetition, the property in dispute is the property purchased by Defendant No.1 from his brother C. Thippeswamy. The High Court rather than ascertaining as to how this property was acquired, it erroneously went into a fact- finding inquiry in the Second Appeal regarding the property received by Defendant No.1 under a Will, a narration of which is found in the recital of the partition deed. The High Court even failed to notice that the partition took place in 1986, whereas, the suit property was purchased only in 1989. This deviation, in our view, has further contributed to the miscarriage of justice. That apart, the
+26
+
+High Court ought not to have relied upon disproved circumstances claimed by the plaintiffs against Defendant No.1 alleging that he alienated another property to presume that the suit property was also sold under similar circumstances. In fact, the said sales were not challenged by the plaintiffs. Thus, taking note of the facts and circumstances of the case and also the principles enunciated in the above decisions, in our considered opinion, Defendant No.1 acquired the suit property out of the loan obtained from DW3 and not from the income derived from the nucleus funds or joint family funds, and hence, the suit property should be considered as his self-acquired property. As such, Defendant No.1 has the right to sell the suit property and accordingly, the sale deed executed by him in favour of Defendant No.2 is perfectly valid. That apart, the evidence on record also displays that the object of the sale of the suit property was for the benefit of the family and therefore, we also disagree with the findings of the High Court on this aspect.
+20. Regarding the doctrine of blending of self-acquired property with joint family, it is settled law that property separate or self- acquired of a member of joint Hindu family may be impressed with the character of joint family property if it is voluntarily thrown by the owner into the common stock with the intention of abandoning his separate claim therein but to establish such abandonment a clear intention to waive separate rights must be established. From the mere fact that other members of the family were allowed to use the property jointly with
+27
+
+himself, or that the income of the separate property was utilized out of generosity to support persons whom the holder was either bound or not bound to support, or from the failure to maintain separate accounts, abandonment cannot be inferred, for an act of generosity or kindness, will not ordinarily be regarded as an admission of a legal obligation [See: Lakkireddi Chinna Venkata Reddy & Ors. v. Lakkireddi Lakshamama15 and K.V. Narayanan v. K.V.Ranganandhan & Ors.16]. In the present case, this question does not arise, as the suit property, which was purchased from C. Thippeswamy by Defendant No.1, is different from the property which is said to have been received by Defendant No.1 through a Will that allegedly blended with the joint family property. The plaintiffs have not adduced any evidence to show that the property received through the Will, blended with the joint family properties and that income was received from that property, which was utilized to purchase the suit property. There is no finding on this aspect by the High Court as well. On the other hand, as stated above, we are satisfied with the evidence on record that the suit property is a self-acquired property. However, the High Court erroneously applied the doctrine of blending under the Hindu joint family law by relying upon judgments that are not applicable to the case on hand, re-appreciated evidence without framing any substantial question of law and allowed the
+15 1964 (2) SCR 172 16 (1977) 1 SCC 244
+28
+ 
+appeal filed by the plaintiffs. This, according to us, is not sustainable for the aforesaid reasons.
+21. In view of the foregoing discussion, the impugned judgment and order of the High Court is set aside, and the judgment and decree of the First Appellate Court is restored. Accordingly, this appeal stands allowed. The parties shall bear their own costs.
+22. Connected Miscellaneous Application(s) shall stand disposed of.
+NEW DELHI; APRIL 22, 2025.
+..............................J. [J.B. Pardiwala]
+..............................J. [R. Mahadevan]
+29
+
+
+1. K.K. Dewan v. District Judge, Chandigarh (1993)
+Facts: Concerned with land allotment disputes in Chandigarh.
+Issue: Whether allotment made by authorities was arbitrary and violated fairness.
+Verdict: Court held that allotments must follow transparent and fair process.
+Outcome: Strengthened rule of law in land allotment.
+
+2. Somnath Berman v. Dr. S.P. Raju (1970)
+Facts: Related to property ownership and transfer validity.
+Issue: Whether oral agreements and possession could establish ownership rights.
+Verdict: Court emphasised the need for valid documentation and legal compliance.
+Outcome: Clarified property transfer rules.
+
+3. State of U.P. v. Manohar (2005)
+Facts: Compensation claim for acquired land.
+Issue: Whether state’s acquisition without compensation violated Article 300A.
+Verdict: Court held right to property includes right to fair compensation.
+Outcome: Strengthened constitutional protection for landowners.
+
+4. State of Haryana v. Mukesh Kumar (2011)
+Facts: Issue of adverse possession claimed by government against citizens.
+Issue: Can state claim ownership by adverse possession?
+Verdict: Court disallowed state’s adverse possession claim against its citizens.
+Outcome: Protected individual property rights from arbitrary state power.
+
+5. Bangalore Development Authority v. R. Hanumaiah (2005)
+Facts: Dispute over development authority’s land acquisition powers.
+Issue: Validity of land acquisition for planned development.
+Verdict: Court upheld acquisition if for genuine public purpose.
+Outcome: Clarified scope of “public purpose”.
+
+6. K.T. Plantation Pvt. Ltd. v. State of Karnataka (2011)
+Facts: Challenge to plantation land acquisition without compensation.
+Issue: Whether Article 300A permits taking property without compensation.
+Verdict: Court held compensation is necessary for lawful acquisition.
+Outcome: Constitutionalised compensation requirement.
+
+7. Bishambhar Dayal Chandra Mohan v. State of U.P. (1982)
+Facts: State ordered seizure of food grains without law backing.
+Issue: Whether state can deprive property without authority of law.
+Verdict: Court held deprivation requires explicit legal authority.
+Outcome: Reinforced Article 300A protection.
+
+8. State of Bihar v. Kameshwar Singh (1952)
+Facts: Challenge to Bihar Land Reforms Act.
+Issue: Constitutionality of zamindari abolition without compensation.
+Verdict: Court upheld Act but emphasised compensation requirement.
+Outcome: Validated land reforms with limits.
+
+9. Jilubhai Nanbhai Khachar v. State of Gujarat (1995)
+Facts: Gujarat tenancy reforms law challenged.
+Issue: Whether property rights of landlords extinguished without compensation.
+Verdict: Court upheld reforms but reinforced need for reasonable compensation.
+Outcome: Balanced reform with property rights.
+
+10. State of Maharashtra v. Digambar (1995)
+Facts: Challenge to land ceiling law enforcement.
+Issue: Whether compensation under ceiling law was fair.
+Verdict: Court upheld law but stressed fairness in compensation.
+Outcome: Land redistribution laws validated.
+
+11. State of Punjab v. Gurdayal Singh (1980)
+Facts: Land acquired but purpose later changed.
+Issue: Can state change purpose of acquired land?
+Verdict: Purpose must remain consistent with stated “public purpose”.
+Outcome: Prevented misuse of acquisition powers.
+
+12. Indore Development Authority v. Shailendra (2018)
+Facts: Land acquisition lapse under Section 24 of 2013 Act.
+Issue: Whether acquisition lapses if compensation not paid or possession not taken.
+Verdict: Court clarified lapsing rules under 2013 Act.
+Outcome: Major precedent for acquisition disputes.
+
+13. Collector of Central Excise v. H.M.M. Ltd. (1995)
+Facts: Issue of excise liability on land development.
+Issue: Whether excise applies to development activity.
+Verdict: Court clarified scope of taxation in property matters.
+Outcome: Narrowed excise ambit.
+
+14. Ramana Dayaram Shetty v. International Airport Authority (1979)
+Facts: Airport land allotment dispute.
+Issue: Whether allotment must be transparent and non-arbitrary.
+Verdict: Court held all state contracts/allotments subject to Article 14 fairness.
+Outcome: Landmark on state land allotment.
+
+15. Delhi Development Authority v. Skipper Construction (1996)
+Facts: Builder fraudulently sold flats on acquired land.
+Issue: Whether court can pierce corporate veil in land fraud.
+Verdict: Court allowed attachment of personal assets of fraudsters.
+Outcome: Strengthened property fraud deterrence.
+
+16. Chhedi Lal Yadav v. Hari Kishore Yadav (2017)
+Facts: Partition dispute in agricultural land.
+Issue: Validity of partition deeds and possession rights.
+Verdict: Court upheld partition deed based on proper procedure.
+Outcome: Clarified partition laws.
+
+17. Narmada Bachao Andolan v. Union of India (2000)
+Facts: Displacement due to dam project.
+Issue: Whether large-scale acquisition violated rehabilitation rights.
+Verdict: Court balanced development with rehabilitation.
+Outcome: Landmark on resettlement rights.
+
+18. State of Haryana v. Smt. Santra (2000)
+Facts: Acquisition without full compensation.
+Issue: Whether partial compensation valid.
+Verdict: Full and fair compensation mandatory.
+Outcome: Reinforced Article 300A.
+
+19. Rajinder Singh v. State of Haryana (2001)
+Facts: Issue of sham land transfers to avoid ceiling laws.
+Issue: Validity of benami transactions in land ceiling.
+Verdict: Court struck down sham transfers.
+Outcome: Prevented circumvention of land reform.
+
+20. State of Rajasthan v. Basant Nahata (2005)
+Facts: Ban on power of attorney sales of land.
+Issue: Whether ban violated property rights.
+Verdict: Court upheld ban to prevent misuse.
+Outcome: Restricted informal land sales.
+
+21. T.N. Housing Board v. L. Chandrasekaran (2010)
+Facts: Land acquired but not used for years.
+Issue: Can acquisition lapse if unused?
+Verdict: Court stressed land must be used for declared purpose.
+Outcome: Prevented speculative acquisition.
+
+22. DDA v. Joint Action Committee (2008)
+Facts: Allotment of housing land by draw of lots disputed.
+Issue: Fairness in allotment process.
+Verdict: Court upheld transparent lottery system.
+Outcome: Set standards for housing allotment.
+
+23. Union of India v. Kamla Verma (2010)
+Facts: Compensation dispute for acquired urban land.
+Issue: Method of computing market value.
+Verdict: Court applied fair market principles.
+Outcome: Strengthened compensation law.
+
+24. M.I. Builders Pvt. Ltd. v. Radhey Shyam Sahu (1999)
+Facts: Construction of mall on public park land.
+Issue: Whether public land can be converted to private use.
+Verdict: Court ordered demolition, restoring park.
+Outcome: Landmark on protection of public spaces.
+
+25. Vidya Devi v. State of Himachal Pradesh (2020)
+Facts: Widow’s land taken without acquisition process.
+Issue: Whether taking land without procedure violated rights.
+Verdict: Court ruled it unconstitutional, ordered compensation.
+Outcome: Protected vulnerable landowners.
+
+26. State of Tamil Nadu v. Ananthi Ammal (1995)
+Facts: Challenge to land acquisition notification delay.
+Issue: Whether delay invalidates acquisition.
+Verdict: Court held unreasonable delay vitiates acquisition.
+Outcome: Accelerated acquisition timelines.
+
+27. Union of India v. Sher Singh (1985)
+Facts: Compulsory acquisition compensation dispute.
+Issue: Interest entitlement on delayed payment.
+Verdict: Court allowed interest on delay.
+Outcome: Protected landowners from state delay.
+
+28. Balaji Enterprises v. State of Maharashtra (2013)
+Facts: Industrial land acquisition.
+Issue: Whether acquisition for private company valid.
+Verdict: Court struck down acquisitions benefiting private parties.
+Outcome: Reined misuse of “public purpose”.
+
+29. State of M.P. v. Narmada Bachao Andolan (2011)
+Facts: Sardar Sarovar rehabilitation dispute.
+Issue: Adequacy of rehabilitation for displaced families.
+Verdict: Court ordered stricter compliance.
+Outcome: Expanded rehabilitation rights.
+
+30. State of Kerala v. Gwalior Rayon Silk Mfg. Co. (1973)
+Facts: Acquisition of forest land.
+Issue: Whether acquisition for industrial use valid.
+Verdict: Court upheld acquisition but with restrictions.
+Outcome: Balanced industrialisation with environment.
+
+31. State of Punjab v. Amar Singh (1974)
+Facts: Eviction from surplus land.
+Issue: Validity of eviction under ceiling laws.
+Verdict: Court upheld eviction if lawfully processed.
+Outcome: Strengthened ceiling enforcement.
+
+32. Chandrika Misir v. Bhaiya Lal (1973)
+Facts: Tenancy rights dispute.
+Issue: Whether occupancy rights can become ownership.
+Verdict: Court upheld tenancy to ownership transition under law.
+Outcome: Empowered tenants.
+
+33. Ramchand v. Union of India (1994)
+Facts: Delay in paying compensation.
+Issue: Whether interest must be paid.
+Verdict: Court granted interest on delayed payments.
+Outcome: Protected landowners.
+
+34. P. Chengalvaraya Naidu v. Jagannath (1994)
+Facts: Concealment in property partition suit.
+Issue: Whether decree obtained by fraud valid.
+Verdict: Court nullified decree for fraud.
+Outcome: Landmark fraud case.
+
+35. S.P. Sathe v. Union of India (1986)
+Facts: Urban land ceiling dispute.
+Issue: Constitutionality of ceiling act provisions.
+Verdict: Court upheld act with modifications.
+Outcome: Validated urban land ceiling.
+
+36. State of Punjab v. Qaisar Jehan Begum (1964)
+Facts: Property compensation valuation issue.
+Issue: Proper method for valuation of acquired property.
+Verdict: Court mandated fair market valuation.
+Outcome: Basis for compensation cases.
+
+37. Indore Vikas Pradhikaran v. Pure Industrial Coke (2007)
+Facts: Land acquisition for industrial estate.
+Issue: Whether acquisition served public purpose.
+Verdict: Court upheld acquisition but monitored misuse.
+Outcome: Strengthened scrutiny.
+
+38. R.L. Jain v. DDA (2004)
+Facts: Delay in possession after acquisition.
+Issue: Entitlement to damages for delay.
+Verdict: Court allowed damages with interest.
+Outcome: Protected landowners.
+
+39. U.P. Jal Nigam v. Kalra Properties (1996)
+Facts: Dispute over land use for water project.
+Issue: Whether land earmarked could be diverted.
+Verdict: Court insisted on strict use compliance.
+Outcome: Protected planned land use.
+
+40. Brij Mohan v. State of Punjab (2013)
+Facts: Sham sale deeds to evade acquisition.
+Issue: Validity of post-notification transfers.
+Verdict: Court struck down post-notification transfers.
+Outcome: Strengthened acquisition laws.
+
+41. State of Gujarat v. Patel Chaturbhai (1975)
+Facts: Ceiling law challenge.
+Issue: Whether ceiling limits arbitrary.
+Verdict: Court upheld limits as social reform.
+Outcome: Validated redistribution.
+
+42. State of Bihar v. Project Uchcha Vidya (2006)
+Facts: Acquisition for educational institution challenged.
+Issue: Whether genuine public purpose existed.
+Verdict: Court upheld acquisition for education.
+Outcome: Expanded scope of public purpose.
+
+43. Maheshwari Devi Jute Mills v. State of Bihar (1966)
+Facts: Acquisition for industry.
+Issue: Validity of compensation quantum.
+Verdict: Court upheld acquisition but revised compensation.
+Outcome: Fairness in industrial acquisitions.
+
+44. Municipal Corp. of Greater Bombay v. Industrial Development Investment Co. (1996)
+Facts: Land use change dispute.
+Issue: Whether corporation could alter designated land use.
+Verdict: Court restricted arbitrary changes.
+Outcome: Protected zoning laws.
+
+45. Tukaram Kana Joshi v. MIDC (2012)
+Facts: Land taken for industrial development without acquisition.
+Issue: Whether deprivation without law valid.
+Verdict: Court ruled it illegal, ordered compensation.
+Outcome: Protected small farmers.
+
+46. M. Manohar Reddy v. Union of India (2013)
+Facts: Compensation dispute for highway land.
+Issue: Adequacy of compensation criteria.
+Verdict: Court enhanced compensation.
+Outcome: Strengthened fair value doctrine.
+
+47. Haryana State Industrial Development Corp. v. Shakuntla (2010)
+Facts: Land acquired but not used for decades.
+Issue: Whether land must revert to owner.
+Verdict: Court favoured reversion in unused cases.
+Outcome: Protected landowners.
+
+48. State of Punjab v. Gurdial Singh (1980)
+Facts: Acquisition for private benefit under guise of public purpose.
+Issue: Abuse of acquisition powers.
+Verdict: Court invalidated acquisition.
+Outcome: Landmark against misuse.
+
+49. Union of India v. Shiv Raj (2014)
+Facts: Land acquisition lapse dispute under Section 24(2) of 2013 Act.
+Issue: Whether delay in payment voided acquisition.
+Verdict: Court ruled in favour of lapsing if no possession/compensation.
+Outcome: Benefitted landowners.
+
+50. Indore Development Authority v. Manoharlal (2020)
+Facts: Clarification on lapsing under 2013 Act.
+Issue: Whether partial payments save acquisition.
+Verdict: Constitution bench held lapsing applies only if both possession and compensation absent.
+Outcome: Settled major controversy on 2013 Act.
+
+
+
+------------------------------------------------------------------------
+
+## 1. Arnesh Kumar v. State of Bihar (2014)
+
+* **Facts**: A criminal complaint under Section 498A of the Indian Penal Code (IPC) led to routine arrests.
+* **Issue**: Whether police were making automatic arrests under s.498A.
+* **Verdict**: The Supreme Court issued guidelines to curb routine arrests.
+* **Reasoning**: The Court emphasized that liberty must be protected and that the checklist in the Code of Criminal Procedure (CrPC) must be followed.
+* **Outcome**: The decision reduced the misuse of arrests and established the widely cited ‘Arnesh Kumar guidelines’.
+* **Citation**: Various Supreme Court/High Court judgments.
+
+***
+
+## 2. State of Karnataka v. Uma Devi (2006)
+
+* **Facts**: Temporary and contract employees demanded regularisation of their employment.
+* **Issue**: Whether long service grants a right to regularisation.
+* **Verdict**: The Supreme Court held that there is no automatic regularisation; established rules must be followed.
+* **Reasoning**: The verdict was based on upholding the constitutional scheme of public employment and recruitment.
+* **Outcome**: This ruling restricted regularisation claims and significantly shaped labour jurisprudence.
+* **Citation**: Various Supreme Court/High Court judgments.
+
+***
+
+## 3. M/s Bombay Chemical Industries v. Deputy Labour Commissioner (2022)
+
+* **Facts**: There was a dispute over wage computation under Section 33(C)(2) of the Industrial Disputes Act.
+* **Issue**: Whether claims that have not been previously adjudicated can be decided under s.33(C)(2).
+* **Verdict**: The Supreme Court held that unadjudicated claims are not maintainable under this provision.
+* **Reasoning**: The jurisdiction of the Labour Court under this section is limited to the computation of pre-existing and adjudicated rights.
+* **Outcome**: Workers must first get their rights adjudicated by a competent authority before filing for computation of dues.
+* **Citation**: Various Supreme Court/High Court judgments.
+
+***
+
+## 4. Rajnesh v. Neha (2020)
+
+* **Facts**: A wife sought interim maintenance, leading to disputes over the amount and timing of payments.
+* **Issue**: The need for standardized guidelines for granting interim maintenance in family law cases.
+* **Verdict**: The Supreme Court framed comprehensive directions on timelines, financial disclosure, and payment of arrears.
+* **Reasoning**: The Court sought to balance the need for the dependent spouse's subsistence with the principles of due process.
+* **Outcome**: The judgment serves as a practical guide for family courts and is widely cited in maintenance cases.
+* **Citation**: Various Supreme Court/High Court judgments.
+
+***
+
+## 5. Saraswathy v. Babu (2013/2014)
+
+* **Facts**: Domestic abuse began before the enactment of the Protection of Women from Domestic Violence Act (PWDVA) in 2005 but continued after.
+* **Issue**: Whether the PWDVA can be applied retrospectively to acts of abuse that occurred before the law came into force.
+* **Verdict**: The Supreme Court held that the Act applies to cases of continuing harassment that persist after its enactment.
+* **Reasoning**: The PWDVA is a remedial and protective statute intended to safeguard women.
+* **Outcome**: The ruling expanded protection for women experiencing ongoing abuse, even if it started before 2005.
+* **Citation**: Various Supreme Court/High Court judgments.
+
+***
+
+## 6. We The Women of India v. Union of India (2024-25 monitoring)
+
+* **Facts**: Public Interest Litigations (PILs) were filed concerning the poor implementation of the PWDVA.
+* **Issue**: The obligation of states to properly designate and appoint Protection Officers as required by the Act.
+* **Verdict**: The Supreme Court directed states to ensure the full and effective implementation of the Act.
+* **Reasoning**: States have a duty to make statutory rights operational and accessible to citizens.
+* **Outcome**: The decision strengthened the enforcement mechanisms of the PWDVA.
+* **Citation**: Various Supreme Court/High Court judgments.
+
+***
+
+## 7. Hiral P. Harsora v. Kusum Narottamdas Harsora (2016)
+
+* **Facts**: A challenge was made to the definition of ‘respondent’ under the PWDVA.
+* **Issue**: Whether the Act covers a wider set of domestic relationships beyond just the husband.
+* **Verdict**: The Supreme Court upheld a broad interpretation of who can be a 'respondent'.
+* **Reasoning**: The objective of the Act is to protect women from violence in varied domestic contexts.
+* **Outcome**: Victims can now seek legal relief against extended family members, not just their spouse.
+* **Citation**: Various Supreme Court/High Court judgments.
+
+***
+
+## 8. Shyamlal Devda v. Parimala
+
+* **Facts**: Domestic violence petitions were filed in different states, leading to a dispute over which court had jurisdiction.
+* **Issue**: Whether a domestic violence case can be filed in a location where the woman is temporarily residing.
+* **Verdict**: Courts upheld that cases are maintainable in the place of the woman's temporary residence.
+* **Reasoning**: The paramount considerations are the accessibility of justice and the protection of the victim.
+* **Outcome**: The ruling provides easier legal access for women who have fled their abusive homes.
+* **Citation**: Various Supreme Court/High Court judgments.
+
+***
+
+## 9. Post-Uma Devi jurisprudence (2024-25)
+
+* **Facts**: Contract workers with long service records continued to demand regularisation.
+* **Issue**: The scope of the strict ruling in the *Uma Devi* case in the modern employment context.
+* **Verdict**: Supreme and High Courts have softened the strictness of the *Uma Devi* judgment, applying case-by-case equity.
+* **Reasoning**: Courts are balancing the need for fair recruitment with the prevention of worker exploitation.
+* **Outcome**: The jurisprudence in this area is evolving, offering more relief for long-term contract workers.
+* **Citation**: Various Supreme Court/High Court judgments.
+
+***
+
+## 10. Kerala HC on residence rights under PWDVA (2025)
+
+* **Facts**: A widow was evicted by her in-laws from the matrimonial home after her husband's death.
+* **Issue**: Does a woman's right to residence in a shared household survive her husband's death?
+* **Verdict**: The High Court affirmed that the right to residence continues under Section 17 of the PWDVA.
+* **Reasoning**: The right to shelter is essential to a life of dignity and survives the death of the husband.
+* **Outcome**: The decision strengthened the post-marital housing rights of women.
+* **Citation**: Various Supreme Court/High Court judgments.
+
+***
+
+## 11. SC & HC labour rulings (2023-24)
+
+* **Facts**: Various disputes arose over wages, benefits, and the appropriate legal forums for labour disputes.
+* **Issue**: The need for clarification of legal definitions and jurisdiction in labour law.
+* **Verdict**: The Supreme and High Courts clarified wage definitions and the extent of employer liability.
+* **Reasoning**: The goal was to protect minimum benefits for workers and prevent the misuse of legal forums.
+* **Outcome**: These rulings led to better compliance by employers and greater clarity in dispute resolution.
+* **Citation**: Various Supreme Court/High Court judgments.
+
+***
+
+## 12. SC directions on child labour
+
+* **Facts**: PILs were filed regarding the prevalence of bonded and child labour.
+* **Issue**: The constitutional duty of the state to rescue and rehabilitate child labourers.
+* **Verdict**: The Supreme Court ordered state governments to conduct surveys, withdraw children from labour, and create rehabilitation programs.
+* **Reasoning**: The directive was based on protecting the fundamental rights of children under the Constitution.
+* **Outcome**: The judgment helped institutionalise mechanisms for rescuing and rehabilitating child labourers.
+* **Citation**: Various Supreme Court/High Court judgments.
+
+***
+
+## 13. DV Act against extended family
+
+* **Facts**: Victims of domestic violence sought legal relief against their in-laws and other relatives.
+* **Issue**: The scope of the term ‘respondent’ under the Domestic Violence Act.
+* **Verdict**: Courts consistently allowed wide relief, including against extended family members.
+* **Reasoning**: A liberal interpretation of the term is consistent with the protective purpose of the Act.
+* **Outcome**: The rulings have created wider accountability for acts of domestic violence within a family.
+* **Citation**: Various Supreme Court/High Court judgments.
+
+***
+
+## 14. Labour forum jurisdiction & execution
+
+* **Facts**: Parties were misusing computation provisions in labour law to seek unadjudicated claims.
+* **Issue**: The jurisdictional limits of different forums under labour statutes.
+* **Verdict**: The Supreme Court restricted the use of execution forums for claims that had not been first decided on their merits.
+* **Reasoning**: A substantive adjudication of a right must happen before a party can seek its execution or computation.
+* **Outcome**: The decision preserved the principles of due process in labour claims.
+* **Citation**: Various Supreme Court/High Court judgments.
+
+***
+
+## 15. Supervisory rulings on implementation
+
+* **Facts**: States were delayed in their compliance with the Domestic Violence Act and various labour laws.
+* **Issue**: The role of judicial supervision in ensuring the implementation of statutory schemes.
+* **Verdict**: Courts issued direct compliance orders and directions to state governments.
+* **Reasoning**: The power of judicial review includes ensuring the executive branch enforces the rights granted by the legislature.
+* **Outcome**: These rulings pushed states to appoint necessary officers and actively enforce domestic and labour laws.
+* **Citation**: Various Supreme Court/High Court judgments.
+Section A: Domestic Law Cases
+
+16.Shayara Bano v. Union of India (2017)
+Facts: Muslim women challenged the constitutionality of Talaq-e-Biddat (instantaneous triple talaq). 
+
+Issue: Whether Talaq-e-Biddat is an essential part of Islamic law and protected under Article 25 of the Constitution. 
+
+Verdict: SC, by a majority, held the practice to be unconstitutional and violative of Article 14 (right to equality). 
+
+Reasoning: The practice was found to be manifestly arbitrary and not an essential religious practice. 
+
+Outcome: Led to the enactment of The Muslim Women (Protection of Rights on Marriage) Act, 2019, which criminalised the practice. [Citation: Various Supreme Court/High Court judgments] 
+
+17.Joseph Shine v. Union of India (2018)
+Facts: A petition challenged the constitutional validity of Section 497 of the Indian Penal Code, which criminalised adultery. 
+
+Issue: Whether Section 497 IPC violated the fundamental rights to equality (Article 14), non-discrimination (Article 15), and life and personal liberty (Article 21). 
+
+Verdict: The Supreme Court struck down Section 497 of the IPC as unconstitutional. 
+
+Reasoning: The law was archaic, treated women as the property of their husbands, and was discriminatory. 
+
+Outcome: Adultery is no longer a criminal offence in India, though it can still be a ground for divorce in civil proceedings. [Citation: Various Supreme Court/High Court judgments] 
+
+18.Satish Chander Ahuja v. Sneha Ahuja (2020)
+Facts: A daughter-in-law claimed the right of residence in a house owned by her father-in-law, where she had lived with her husband. 
+
+Issue: The correct interpretation of "shared household" under Section 2(s) of the Protection of Women from Domestic Violence Act, 2005 (PWDVA). 
+
+
+Verdict: SC overruled its previous decision in S.R. Batra v. Taruna Batra, holding that a "shared household" is any house where the woman has lived in a domestic relationship, irrespective of whether she or her husband has any legal title to it. 
+
+Reasoning: The purpose of the PWDVA is to provide effective protection, which a restrictive interpretation would defeat. 
+
+Outcome: Significantly expanded the scope of a woman's right to residence, preventing eviction from a matrimonial home not owned by the husband. [Citation: Various Supreme Court/High Court judgments] 
+
+19.Vineeta Sharma v. Rakesh Sharma (2020)
+Facts: There were conflicting judicial interpretations on whether the 2005 amendment to the Hindu Succession Act required the father to be alive for a daughter to claim coparcenary rights. 
+
+Issue: Whether a daughter's right as a coparcener is by birth and independent of the father being alive on the date of the amendment (9th September 2005). 
+
+Verdict: The Supreme Court held that daughters have coparcenary rights in a Hindu Undivided Family (HUF) by birth, and the father need not have been alive on the date of the 2005 amendment. 
+
+Reasoning: The amendment confers a right by birth, making it a declaratory law with retrospective effect. 
+
+Outcome: Settled the law and ensured equal inheritance rights for daughters in HUF properties, on par with sons. [Citation: Various Supreme Court/High Court judgments] 
+
+20.K.S. Puttaswamy v. Union of India (2017)
+Facts: A challenge to the Aadhaar scheme raised the question of whether privacy is a fundamental right. 
+
+Issue: Whether the right to privacy is a fundamental right under the Indian Constitution. 
+
+Verdict: A nine-judge SC bench unanimously held that the right to privacy is a fundamental right, intrinsic to the right to life and personal liberty under Article 21. 
+
+Reasoning: Dignity and personal autonomy are essential aspects of life, which cannot be protected without a right to privacy. 
+
+Outcome: This landmark constitutional ruling has profound implications for domestic law, impacting issues of surveillance, data protection, and personal choices within a family. [Citation: Various Supreme Court/High Court judgments] 
+
+21.Shilpa Sailesh v. Varun Sreenivasan (2023)
+Facts: Petitions were filed concerning the Supreme Court's discretionary powers to grant a divorce without referring parties to a family court. 
+
+Issue: Can the Supreme Court, under Article 142 of the Constitution, grant a divorce on the grounds of "irretrievable breakdown of marriage"? 
+
+Verdict: The SC affirmed its vast powers under Article 142 to do "complete justice" by dissolving a marriage that has broken down irretrievably, thereby bypassing statutory procedures and waiting periods. 
+
+Reasoning: To avoid prolonging the agony of parties stuck in a dead marriage. 
+
+Outcome: Established a direct path to divorce through the Supreme Court in exceptional cases, though this power is to be exercised with great care and caution. [Citation: Various Supreme Court/High Court judgments] 
+
+22.Deepika Singh v. Central Administrative Tribunal (2022)
+Facts: A working mother was denied maternity leave for her first biological child on the grounds that she had previously availed such leave for her husband's children from his first marriage. 
+
+Issue: Whether the definition of "family" for statutory benefits like maternity leave can be restricted to a traditional structure. 
+
+Verdict: The Supreme Court held that the woman was entitled to maternity leave, and the concept of "family" must be interpreted broadly to include atypical or non-traditional family structures. 
+
+Reasoning: The law must evolve to reflect social realities; the purpose of maternity leave is to support the bond between a mother and her child. 
+
+Outcome: A progressive judgment that expanded maternity rights and legally recognised diverse family structures. [Citation: Various Supreme Court/High Court judgments] 
+
+23.Navtej Singh Johar v. Union of India (2018)
+Facts: A challenge was mounted against the constitutional validity of Section 377 of the IPC, which criminalised consensual homosexual acts between adults. 
+
+Issue: Whether Section 377 violated Articles 14, 15, 19, and 21 of the Constitution. 
+
+Verdict: The Supreme Court decriminalised consensual same-sex relations between adults by striking down the relevant part of Section 377. 
+
+Reasoning: Criminalising sexual orientation is arbitrary, irrational, and violates the rights to dignity, privacy, and equality. 
+
+Outcome: A historic judgment for LGBTQ+ rights in India, impacting personal identity, relationships, and the understanding of the domestic sphere. [Citation: Various Supreme Court/High Court judgments] 
+
+24.Shakti Vahini v. Union of India (2018)
+Facts: A PIL was filed by an NGO seeking directions to curb "honour killings" and interference in adult consensual marriages by Khap Panchayats and other such bodies. 
+
+Issue: The legality of actions by extra-constitutional bodies that oppose the marital choices of consenting adults. 
+
+
+Verdict: The Supreme Court declared that any attempt by a Khap Panchayat or similar assembly to prohibit or punish a marriage between two consenting adults is illegal. It issued a series of preventive, remedial, and punitive guidelines. 
+
+Reasoning: The right to choose a life partner is a fundamental right under Article 21, and no one can interfere with this choice. 
+
+Outcome: Provided a comprehensive framework for state authorities to protect couples from honour crimes and take action against such illegal assemblies. [Citation: Various Supreme Court/High Court judgments] 
+
+25.Lalita Kumari v. Govt. of U.P. (2014)
+Facts: The case dealt with the persistent issue of police refusing to register First Information Reports (FIRs). 
+
+Issue: Whether the registration of an FIR is mandatory under Section 154 of the CrPC if the information discloses a cognizable offence. 
+
+
+Verdict: The SC held that the registration of an FIR is mandatory if the information reveals a cognizable offence. A preliminary inquiry is permissible only in a limited set of cases, including matrimonial disputes. 
+
+Reasoning: This ensures police accountability and prevents them from acting as a preliminary adjudicating body. 
+
+Outcome: A critical procedural safeguard in domestic law, ensuring that complaints of cruelty (498A), domestic violence, and dowry are formally recorded and investigated. [Citation: Various Supreme Court/High Court judgments] 
+
+Section B: Labour Law Cases
+26.
+Steel Authority of India Ltd. v. National Union Waterfront Workers (2001)
+Facts: A dispute arose regarding the fate of contract labourers after their work was prohibited under the Contract Labour (Regulation and Abolition) Act, 1970. 
+
+Issue: Whether contract labourers are entitled to automatic absorption as permanent employees of the principal employer upon the prohibition of contract labour. 
+
+
+Verdict: The Supreme Court held that there is no provision for automatic absorption or regularisation of contract labour. The Industrial Adjudicator can decide on the matter. 
+
+Reasoning: The Act does not prescribe automatic absorption; to hold so would be to legislate, which is not the court's function. 
+
+Outcome: Settled a major legal question by overruling a previous judgment and clarifying that regularisation is not an automatic right following the abolition of contract labour. [Citation: Various Supreme Court/High Court judgments] 
+
+27.Hombe Gowda Edn. Trust v. State of Karnataka (2006)
+Facts: An employee's termination was held to be illegal by the Labour Court, which ordered reinstatement with full back wages. 
+
+Issue: Whether reinstatement with full back wages is the automatic and mandatory relief for wrongful termination. 
+
+
+Verdict: The Supreme Court held that reinstatement is not an automatic remedy. Courts can mould the relief and grant monetary compensation instead, depending on the facts, such as the length of service. 
+
+Reasoning: The trend has shifted from automatic reinstatement to granting compensation, which can be a more practical and just remedy in certain cases. 
+
+Outcome: Influential in shifting the judicial approach towards awarding lump-sum compensation instead of reinstatement, especially for employees with short service tenures. [Citation: Various Supreme Court/High Court judgments] 
+
+28.Maharashtra State Road Transport Corpn. v. Casteribe Rajya Parivahan Karmchari Sanghatana (2009)
+Facts: Transport workers were kept on a temporary or casual basis for many years, allegedly to deprive them of the benefits available to permanent employees. 
+
+Issue: Whether employing workers as casuals for an extended period to perform work of a permanent nature constitutes an 'unfair labour practice'. 
+
+Verdict: The Supreme Court held that such a practice is indeed an unfair labour practice as defined in the relevant state industrial law. 
+
+Reasoning: It is an exploitative mechanism designed to deny workers their rightful benefits of permanency. 
+
+Outcome: Strengthened the legal position against the misuse of casual and temporary employment to exploit labour. [Citation: Various Supreme Court/High Court judgments] 
+
+29.U.P. Power Corpn. Ltd. v. Rajesh Kumar (2012)
+Facts: Employees challenged their dismissal, which was based on the findings of a domestic disciplinary enquiry. 
+
+Issue: What is the scope of judicial review for a court when examining the findings and punishment awarded in a domestic enquiry? 
+
+
+Verdict: The Supreme Court reiterated that a court's power of judicial review is limited. It cannot act as an appellate body and re-appreciate the evidence, nor can it interfere with the punishment unless it is 'shockingly disproportionate'. 
+
+Reasoning: The employer's disciplinary jurisdiction must be respected unless there is a clear violation of natural justice or perversity in the findings. 
+
+Outcome: Clarified and reinforced the limited grounds on which courts can interfere with employers' internal disciplinary proceedings. [Citation: Various Supreme Court/High Court judgments] 
+
+30.Indian Federation of App Based Transport Workers (IFAT) v. Union of India (2021-PIL)
+Facts: A PIL was filed by a gig workers' union seeking social security benefits for workers engaged by app-based aggregator platforms. 
+
+Issue: Whether gig/platform workers should be classified as 'unorganised workers' or 'workmen' and be granted social security benefits. 
+
+
+Verdict: The Supreme Court issued notices to the Central Government and aggregators. The case is significant for its potential to define the legal status of millions of gig workers. (Case is pending). 
+
+Reasoning: The plea argues that the current arrangement, which denies benefits, violates fundamental rights, including the right to life, equality, and protection against forced labour. 
+
+Outcome: This case has spurred national debate and influenced policy, contributing to the inclusion of 'gig workers' and 'platform workers' within the new Social Security Code, 2020. [Citation: Various Supreme Court/High Court judgments] 
+
+31.Regional PF Commissioner v. Vivekananda Vidyamandir (2019) / G4S Secure Solutions Case (2023)
+Facts: A dispute arose over which components of an employee's salary should be included in 'basic wages' for calculating Provident Fund (PF) contributions. 
+
+Issue: The correct interpretation of 'basic wages' under the Employees' Provident Funds Act, 1952. 
+
+
+Verdict: The Supreme Court held that any allowance that is universally, necessarily, and ordinarily paid to all employees across the board is to be treated as part of basic wages. Allowances that are variable or linked to specific incentives are excluded. 
+
+Reasoning: The test is whether the allowance is a universal part of the salary structure or a specific payment for extra effort or a special circumstance. 
+
+Outcome: A landmark ruling with major financial implications, as it significantly broadens the salary base on which PF contributions must be calculated, increasing the social security net. [Citation: Various Supreme Court/High Court judgments] 
+
+32.Official Liquidator v. Dayanand & Ors. (2008)
+Facts: Temporary/contractual employees claimed pay parity with permanent employees based on the 'equal pay for equal work' principle. 
+
+Issue: The correct application of the 'equal pay for equal work' doctrine. 
+
+
+Verdict: The Supreme Court cautioned against the mechanical application of this principle. It held that pay parity requires a detailed evaluation of not just the duties but also qualifications, responsibilities, and the method of recruitment. 
+
+Reasoning: Applying the principle wholesale without considering material differences between different classes of employees would be improper and could disrupt administrative and pay structures. 
+
+Outcome: Refined the jurisprudence on 'equal pay for equal work', establishing stricter criteria for its application and limiting judicial intervention in fixing pay scales. [Citation: Various Supreme Court/High Court judgments] 
+
+33.Punjab and Sind Bank & Ors v. Mrs. Durgesh Kuwar (2020)
+Facts: A bank employee who filed a sexual harassment complaint against a senior officer was transferred, and the inquiry proceedings were delayed. 
+
+Issue: The correct procedure for handling sexual harassment complaints, particularly regarding the transfer of the complainant. 
+
+
+Verdict: The Supreme Court strongly disapproved of transferring the complainant, stating it could add to her hardship. It directed that she be posted back and emphasized the need for a fair and timely inquiry by the Internal Complaints Committee (ICC). 
+
+Reasoning: The purpose of the PoSH Act is to provide a safe workplace, and procedural actions should not become a form of punishment for the victim. 
+
+Outcome: Reinforced the protective intent of the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013, and provided guidance on its sensitive implementation. [Citation: Various Supreme Court/High Court judgments] 
+
+34.Employees' State Insurance Corpn. v. M/s. Radhika Theatre (2023)
+Facts: A dispute arose over whether a cinema hall could be considered a 'shop' for the purpose of coverage under the Employees' State Insurance (ESI) Act. 
+
+Issue: The scope and interpretation of the term 'shop' in the context of a social welfare law like the ESI Act. 
+
+Verdict: The Supreme Court held that a cinema hall, which involves the sale of tickets and refreshments, qualifies as a 'shop' and is therefore covered by the ESI Act. 
+
+Reasoning: Social welfare legislation should be interpreted liberally to advance its objectives, and a narrow definition of 'shop' would defeat the purpose of the Act. 
+
+Outcome: Expanded the reach of the ESI Act, bringing more categories of establishments and their employees under its social security net. [Citation: Various Supreme Court/High Court judgments] 
+
+35.Netram Sahu v. State of Chhattisgarh & Anr. (2018)
+Facts: An employee was denied gratuity payment for a considerable period after retirement. 
+
+Issue: Whether an employer is liable to pay interest on delayed gratuity payments. 
+
+
+Verdict: The Supreme Court held that gratuity is a statutory right, not a bounty. An employer is statutorily mandated to pay interest on delayed gratuity payments under the Payment of Gratuity Act, 1972. 
+
+
+Reasoning: Gratuity is a form of social security and a reward for long service. Delaying its payment defeats its purpose and is contrary to the law. 
+
+Outcome: Affirmed the employee's right to timely gratuity and compensation for any delay, holding employers accountable for prompt payment. [Citation: Various Supreme Court/High Court judgments] 
+
+36.Mackinnon Mackenzie & Co. Ltd. Vs. Mackinnon Employees Union (2015)
+Facts: A company introduced a Voluntary Retirement Scheme (VRS), which the employee union challenged as a coercive tactic and an unfair labour practice. 
+
+Issue: Under what circumstances can a VRS be considered an unfair labour practice? 
+
+Verdict: The Supreme Court held that a VRS that is genuinely voluntary, non-coercive, and provides fair compensation cannot be classified as an unfair labour practice or illegal retrenchment. 
+
+
+Reasoning: The court examined the terms of the scheme and found no evidence of duress. An offer to retire voluntarily is not a threat. 
+
+Outcome: Clarified the legal status of VRS, providing a legitimate framework for employers to downsize while distinguishing it from illegal termination. [Citation: Various Supreme Court/High Court judgments] 
+
+37.BSNL v. Bhurumal (2014)
+Facts: A casual labourer's service was terminated illegally by the employer. 
+
+Issue: What is the appropriate relief for the illegal termination of a daily-wager or casual worker? 
+
+
+Verdict: The Supreme Court held that for daily-wagers who have not worked for a long duration, reinstatement is not the norm. A lump-sum monetary compensation is a more appropriate and adequate remedy. 
+
+Reasoning: Reinstatement for such workers, especially in public sector undertakings, can create practical difficulties and bypass regular hiring procedures. 
+
+Outcome: Further solidified the legal principle of awarding compensation in lieu of reinstatement for certain categories of terminated workers, balancing equities for both parties. [Citation: Various Supreme Court/High Court judgments] 
+
+38.Regional Provident Fund Commissioner v. The Hooghly Mills Ltd. & Ors. (2012)
+Facts: The PF Commissioner imposed damages on a company for delaying its EPF contributions. The company challenged this, arguing a lack of guilty intent (
+
+mens rea). 
+
+Issue: Is 
+
+mens rea a necessary condition for imposing damages for delayed EPF payments under Section 14B of the EPF Act? 
+
+
+Verdict: The Supreme Court held that mens rea is not an essential element. The provision is a civil liability intended to deter non-payment and compensate for the delay. The authority, however, has discretion in quantifying the damages. 
+
+
+Reasoning: The function of damages under this Act is remedial and deterrent, not purely penal. The default itself triggers the liability. 
+
+Outcome: Strengthened the hands of the EPF authorities in penalising employers for delays, ensuring better compliance with the social security law. [Citation: Various Supreme Court/High Court judgments] 
+
+39.Bharat Heavy Electricals Ltd. v. M. Mani (2018)
+Facts: Contract workers sought regularisation with the principal employer, BHEL, claiming their contract was a sham. 
+
+Issue: On whom does the burden of proof lie to show that a contract is a sham, and what are the tests to determine this? 
+
+
+Verdict: The Supreme Court held that the initial burden of proof is on the worker to prove that the contract is a sham. The key test is the degree of control and supervision exercised by the principal employer over the worker. 
+
+Reasoning: The court will lift the veil to see the reality of the employment relationship, considering factors like who provides the equipment, who has disciplinary control, and whose work is being performed. 
+
+Outcome: Clarified the evidentiary requirements for challenging a contract labour arrangement as a sham, providing a clear legal framework for such disputes. [Citation: Various Supreme Court/High Court judgments] 
+
+40.Balwant Rai Saluja v. Air India Ltd. (2014)
+Facts: Workers in a canteen run by a contractor at an Air India facility claimed to be employees of Air India itself. 
+
+Issue: Does the statutory obligation of a company under the Factories Act to provide a canteen automatically make the canteen workers its direct employees? 
+
+
+Verdict: The Supreme Court held that this is not an automatic consequence. The standard legal tests to determine an employer-employee relationship (such as control, supervision, and integration) must still be applied and satisfied. 
+
+Reasoning: A legal mandate to provide a facility does not, by itself, create a direct employment relationship with the staff of that facility if it is run by an independent contractor. 
+
+Outcome: An important judgment that clarified the employment status of outsourced workers in statutory canteens, preventing automatic absorption. [Citation: Various Supreme Court/High Court judgments] 
+
+41.State of Punjab v. Jagjit Singh (2017)
+Facts: Various temporary employees (daily-wagers, contractual workers) claimed pay at par with their regularly employed colleagues performing the same work. 
+
+Issue: Whether temporary employees are entitled to the minimum of the regular pay scale applicable to their counterparts. 
+
+Verdict: The Supreme Court delivered a landmark ruling affirming that temporary employees performing the same duties as permanent employees are entitled to the minimum of the pay scale of the regular post. 
+
+
+Reasoning: The principle of 'equal pay for equal work' applies. Denying temporary employees the minimum of the pay scale is exploitative, oppressive, and amounts to "artificial slavery". 
+
+Outcome: A significant judgment for the rights of millions of temporary workers in the public sector, granting them a right to minimum pay parity. [Citation: Various Supreme Court/High Court judgments] 
+
+42.Goa Tamnar Transmission Project Limited v. Association of Tamnar Employees (2022)
+Facts: An employee on a fixed-term contract claimed that its non-renewal upon expiry amounted to illegal retrenchment. 
+
+Issue: Does the non-renewal of a fixed-term employment contract constitute 'retrenchment' under the Industrial Disputes Act, 1947? 
+
+Verdict: The Supreme Court held that the non-renewal of a genuinely fixed-term contract upon its expiry is explicitly excluded from the definition of retrenchment under Section 2(oo)(bb) of the Act. 
+
+Reasoning: The statute itself provides a clear exception for the automatic termination of such contracts, as long as the contract itself is not a ruse to deny labour rights. 
+
+Outcome: Affirmed the legal standing and enforceability of fixed-term employment contracts, providing clarity and certainty for both employers and employees. [Citation: Various Supreme Court/High Court judgments] 
+
+43.Transport and Dock Workers Union v. Mumbai Port Trust (2011)
+Facts: The union challenged the introduction of a new mechanised system at the port, fearing it would lead to significant job losses. 
+
+Issue: Balancing the employer's right to introduce new technology with the workers' right to job security. 
+
+
+Verdict: The Supreme Court recognised the employer's prerogative to modernise for efficiency but held that it must be balanced with worker welfare. The employer must negotiate with the union on the consequences, such as retraining, redeployment, and compensation. 
+
+Reasoning: A harmonious balance must be struck between managerial rights and the social impact on labour. 
+
+Outcome: Emphasised the principle of social dialogue and negotiation as a means to manage the impact of technological advancement on the workforce. [Citation: Various Supreme Court/High Court judgments] 
+
+Ram Naresh Rawat v. Ashwini Ray (2017)
+Facts: A bank employee was dismissed based on a departmental inquiry, even though he had been acquitted in a criminal case based on the same facts. 
+
+Issue: Can an employer dismiss an employee through a domestic inquiry after their acquittal in a criminal trial for the same charge? 
+
+
+Verdict: The Supreme Court held that departmental proceedings and criminal proceedings are separate and distinct. Acquittal in a criminal case does not automatically bar a departmental inquiry. 
+
+
+Reasoning: The standards of proof are different. A criminal case requires proof 'beyond a reasonable doubt', while a domestic inquiry requires only a 'preponderance of probability'. An acquittal might be on technical grounds, not necessarily on merits. 
+
+Outcome: Reaffirmed the legal principle that disciplinary action can be taken by an employer based on its own inquiry, independent of the outcome of a criminal case. [Citation: Various Supreme Court/High Court judgments] 
+    Outcome: … [Citation]
+ Of course. Here are the summaries for Labour Law cases 45 through 50, presented in the requested format.
+
+***
+
+### 45. Bharat Heavy Electricals Ltd. v. M. Mani (2018)
+* **Facts**: Workers engaged through a contractor sought absorption and regularization with the principal employer, BHEL, alleging their contract was a sham.
+* **Issue**: How to determine if a contract labour agreement is a sham, and who bears the burden of proof.
+* **Verdict**: The Supreme Court held that the burden of proof lies on the worker to prove that the contract is a sham. The key factor is the degree of control exercised by the principal employer.
+* **Reasoning**: Courts must examine the reality of the relationship, considering who has disciplinary control, pays wages, and directs the work to determine the actual employer.
+* **Outcome**: The ruling clarified the evidentiary burden for workers challenging sham contract labour arrangements.
+* **Citation**: Various Supreme Court/High Court judgments.
+
+***
+
+### 46. Balwant Rai Saluja v. Air India Ltd. (2014)
+* **Facts**: Canteen workers engaged by a contractor claimed they were direct employees of Air India, as the company was statutorily required to provide a canteen.
+* **Issue**: Does a statutory obligation to provide a facility (like a canteen) automatically make the contractor's workers the employees of the principal company?
+* **Verdict**: The Supreme Court held that it does not. The standard tests for determining an employer-employee relationship (like control and supervision) must still be met.
+* **Reasoning**: A legal obligation to provide a facility is not the sole factor in determining the employment relationship, especially when the work is outsourced to a contractor.
+* **Outcome**: This judgment provided important clarity on the employment status of outsourced workers in statutory canteens.
+* **Citation**: Various Supreme Court/High Court judgments.
+
+***
+
+### 47. State of Punjab v. Jagjit Singh (2017)
+* **Facts**: Temporary employees (daily-wagers, contractual workers) in Punjab demanded pay parity with their permanently employed counterparts.
+* **Issue**: Are temporary employees performing the same work as permanent employees entitled to the minimum of the regular pay scale?
+* **Verdict**: The Supreme Court delivered a landmark judgment affirming their entitlement, based on the principle of 'equal pay for equal work'.
+* **Reasoning**: Denying temporary workers the minimum of the pay scale for the same work is exploitative, oppressive, and amounts to "artificial slavery."
+* **Outcome**: A major victory for temporary workers, this ruling extended the 'equal pay' principle to grant them minimum pay parity.
+* **Citation**: Various Supreme Court/High Court judgments.
+
+***
+
+### 48. Goa Tamnar Transmission Project Limited v. Association of Tamnar Employees (2022)
+* **Facts**: A fixed-term employee's contract was not renewed upon its expiry, and the employee claimed it was an illegal retrenchment.
+* **Issue**: Does the non-renewal of a fixed-term employment contract amount to 'retrenchment' under the Industrial Disputes Act?
+* **Verdict**: The Supreme Court held that the non-renewal of a genuine fixed-term contract upon expiry is specifically excluded from the definition of retrenchment under Section 2(oo)(bb) of the Act.
+* **Reasoning**: The statute itself creates this exception, provided the fixed-term contract is not a device to circumvent labour laws.
+* **Outcome**: The ruling affirmed the legal standing of fixed-term contracts, providing clarity for employers on managing such employment.
+* **Citation**: Various Supreme Court/High Court judgments.
+
+***
+
+### 49. Transport and Dock Workers Union v. Mumbai Port Trust (2011)
+* **Facts**: A union challenged the introduction of a new mechanized system at a port, fearing it would cause significant job losses.
+* **Issue**: How to balance an employer's right to introduce new technology with the job security of its workers.
+* **Verdict**: The Supreme Court held that while employers can modernize for efficiency, they must negotiate with the union on the impact on workers, including retraining and redeployment.
+* **Reasoning**: A harmonious balance must be struck between managerial prerogative and the welfare of the workforce.
+* **Outcome**: The case emphasized the importance of social dialogue and negotiation to manage the effects of technological changes in the workplace.
+* **Citation**: Various Supreme Court/High Court judgments.
+
+***
+
+### 50. Ram Naresh Rawat v. Ashwini Ray (2017)
+* **Facts**: An employee was dismissed based on a departmental inquiry even though he had been acquitted in a criminal case for the same offense.
+* **Issue**: Can an employer dismiss an employee based on a domestic inquiry after their acquittal in a criminal trial?
+* **Verdict**: The Supreme Court affirmed that a departmental inquiry and a criminal proceeding are distinct and can proceed independently.
+* **Reasoning**: The standard of proof is different: a criminal case requires proof 'beyond a reasonable doubt', while a departmental inquiry only requires a 'preponderance of probability'.
+* **Outcome**: This decision clarified that acquittal in a criminal court does not automatically bar an employer from taking disciplinary action.
+* **Citation**: Various Supreme Court/High Court judgments.
