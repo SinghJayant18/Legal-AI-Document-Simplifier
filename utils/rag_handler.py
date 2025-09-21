@@ -23,7 +23,7 @@ def handle_query(query: str):
     answer = generate_response(query, results)
     return answer, results
 
-genai.configure(api_key=("AIzaSyB8qBop0OqG5UEHZROYyWmj0fJI0V1-3PE"))
+genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
 def generate_response(query: str, retrieved_docs: List[Dict] | None) -> str:
     context = "No internal references retrieved."
